@@ -1,1 +1,3 @@
 Experiments with Map Reduce
+
+To use eclipse, generate .project and .classpath by running mvn eclipse:eclipse and refresh the project
